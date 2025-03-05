@@ -1,0 +1,5 @@
+# tools
+pandas
+pymysql
+sqlalchemy
+psycopg2
